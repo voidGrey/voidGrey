@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on idle based mobile game, 
+- 🔭 I’m currently working on idle based mobile game, and Unity tool called IDLESystem, which is designed for game developers who want to quickly use it without writing code and greatly simplify their workflow.
 - 🌱 I’m currently learning .NET Web API
 <!--
 **voidGrey/voidGrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
