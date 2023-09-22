@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on idle based mobile game, and Unity tool called IDLESystem, which is designed for game developers who want to quickly use it without writing code and greatly simplify their workflow.
 - 🌱 I’m currently learning .NET Web API
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidgrey)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 
 <!--
