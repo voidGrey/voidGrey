@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on idle based mobile game, and Unity tool called IDLESystem, which is designed for game developers who want to quickly use it without writing code and greatly simplify their workflow.
-- 🌱 I’m currently learning .NET Web API
-
+- 🔭 I'm currently developing modular systems such as BattlePass, Chest, and Achievement, which are widely used in mobile games in Unity.
+- 🌱 I’m currently learning .NET Web API, Unity, Design Patterns
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidGrey&show_icons=true&theme=dracula)
