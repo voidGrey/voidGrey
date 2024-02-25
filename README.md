@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently developing modular systems such as BattlePass, Chest, and Achievement, which are widely used in mobile games in Unity.
+- 🔭 I'm currently developing modular systems such as BattlePass, Chest, and Achievement, which are widely used in mobile games in Unity. I am also involved in the development of an MMORpg game, I take an active role in Custom Server and Client side
 - 🌱 I’m currently learning .NET Web API, Unity, Design Patterns
 
 
